@@ -1,3 +1,0 @@
-Load "C:\\Users\\Wangzihan\\Desktop\\car-main\\Objects\\Project.axf" 
-Erase Done.Programming Done.Verify OK.Application running ...
-Flash Load finished at 13:16:25
